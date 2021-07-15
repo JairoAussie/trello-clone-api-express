@@ -31,4 +31,4 @@ const signIn = function(req,res){
 }
 
 
-module.exports = {signUp}
+module.exports = {signUp, signIn}
